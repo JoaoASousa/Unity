@@ -1,3 +1,3 @@
 # Unity
 
-Feel free to download the zip and play the game!
+Feel free to download and play the game!
